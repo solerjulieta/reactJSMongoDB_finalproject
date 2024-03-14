@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "63863bb1ff678cdad04f50b2"
+  },
+  "name": "Julieta",
+  "email": "julieta.soler@mail.com",
+  "password": "$2b$10$0vEPnovDxee/73HyzTn7r.9KOfu28F.jLXBtgS7iL8cmabr65bCmO",
+  "rol": "1"
+},{
+  "_id": {
+    "$oid": "63867f9cae281c47a7c1b719"
+  },
+  "name": "Franco",
+  "email": "franco@mail.com",
+  "password": "$2b$10$WB1bodHpBEqy4uyjVoib1OhOhDFd2JY1xfvVQiTpffhaZCs4zBt9K",
+  "rol": "2"
+}]

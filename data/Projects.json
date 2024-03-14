@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "63386edda5c2c7538b325171"
+  },
+  "name": "Art Cake",
+  "description": "Maquetado web de tienda virtual.",
+  "link": "https://www.artcake.ml/",
+  "img": "/img/art-cake.jpg",
+  "show": true
+},{
+  "_id": {
+    "$oid": "633e3de521c474b113340f3c"
+  },
+  "name": "Tú mate",
+  "description": "Diseño y Programación de tienda virtual.",
+  "link": "https://www.un-mate.com.ar/",
+  "img": "/img/tu-mate.jpg",
+  "show": true
+},{
+  "_id": {
+    "$oid": "633e3f4921c474b113340f3d"
+  },
+  "name": "Zero Waste",
+  "description": "Diseño y Maquetado de one page",
+  "link": "https://zwhuellaverde.000webhostapp.com/",
+  "img": "/img/zero-waste.jpg",
+  "show": true
+},{
+  "_id": {
+    "$oid": "633e418d21c474b113340f3e"
+  },
+  "name": "La Habana",
+  "description": "Diseño y Maquetado de sitio turístico.",
+  "link": "https://conocelahabana.000webhostapp.com/itinerario.html",
+  "img": "/img/la-habana-cuba.jpg",
+  "show": false
+},{
+  "_id": {
+    "$oid": "63402efdd990725212e224ac"
+  },
+  "name": "1.4F Fotografía",
+  "description": "Desarrollo Web del sitio de servicio de fotografía",
+  "link": "http://1.4f-fotografia.com",
+  "img": "https://picsum.photos/400/225",
+  "show": true
+}]
